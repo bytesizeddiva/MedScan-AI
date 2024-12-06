@@ -22,7 +22,7 @@ Before you begin, ensure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <your-repo-url>](https://github.com/bytesizeddiva/MedScan-AI.git
 cd medscan-ai
 ```
 
@@ -107,9 +107,3 @@ The application uses the x.ai API for medical report analysis. You'll need to:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to x.ai for providing the AI image analysis capabilities
-- Inter font by [Google Fonts](https://fonts.google.com/specimen/Inter)
-- Icons by [Heroicons](https://heroicons.com/)
