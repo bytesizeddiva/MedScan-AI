@@ -22,7 +22,7 @@ Before you begin, ensure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>](https://github.com/bytesizeddiva/MedScan-AI.git
+git clone https://github.com/bytesizeddiva/MedScan-AI.git
 cd medscan-ai
 ```
 
